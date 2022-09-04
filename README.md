@@ -11,4 +11,4 @@ A small plataform that provide email attachment with acount movements
 
 some samples
 ![alt text](https://github.com/juanpabloAB/test/blob/main/smple.jpg)?raw=true)
-![alt text](https://github.com/juanpabloAB/test/blob/main/smpleMAIL)?raw=true)
+![alt text](https://github.com/juanpabloAB/test/blob/main/smpleMAIL.jpg)?raw=true)
